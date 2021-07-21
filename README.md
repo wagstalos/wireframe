@@ -1,6 +1,3 @@
-# wireframe
-
-
 <h1 align="center">Wireframe</h1>
 
 <h1 align="center">
